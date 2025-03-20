@@ -1,0 +1,12 @@
+                                        
+ FECHA: 17-03-2025 23:47:35             
+                                        
+ Odontologo: Martin López               
+ Direccion: Emilio Mitre 39, Chi        
+ ****************************           
+ PACIENTE                               
+ ****************************           
+ NOMBRE: Román Fevóla                   
+ TRABAJO: cor-max                       
+ DEBE: 1200000.0                        
+                                        
