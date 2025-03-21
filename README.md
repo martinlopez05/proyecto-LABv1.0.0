@@ -51,8 +51,20 @@ Para facilitar la gestión y análisis de la información, la aplicación permit
 ### 🔹 Pantalla principal
 ![Pantalla principal](images/captura01.png)
 
+### 🔹 Registro de odontologos
+![Registro de odontologos](images/captura02.png)
+
 ### 🔹 Registro de pacientes
-![Registro de pacientes](imagenes/registro_pacientes.png)
+![Registro de pacientes](images/captura03.png)
+
+### 🔹 Registro de gastos
+![Registro de gastos](images/captura04.png)**
+
+### 🔹 Tabla de facturación total
+![facturacion total](images/captura05.png)
+
+### 🔹 Excel exportado FACTURACION TOTAL
+![excel facturado](images/captura06.png)
 
 
 ## 📝 Contacto y soporte
