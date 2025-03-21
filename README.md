@@ -46,6 +46,15 @@ Para facilitar la gestión y análisis de la información, la aplicación permit
 - **Maven** para la gestión de dependencias y compilación del proyecto.
 - **Javadocs** para documentación del código.
 
+  ## 📸 Capturas de Pantalla
+
+### 🔹 Pantalla principal
+![Pantalla principal](images/captura01.png)
+
+### 🔹 Registro de pacientes
+![Registro de pacientes](imagenes/registro_pacientes.png)
+
+
 ## 📝 Contacto y soporte
 Si tienes dudas o sugerencias, puedes contactarme a través de mi GitHub: [martinlopez05](https://github.com/martinlopez05).
 
