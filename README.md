@@ -58,7 +58,7 @@ Para facilitar la gestión y análisis de la información, la aplicación permit
 ![Registro de pacientes](images/captura03.png)
 
 ### 🔹 Registro de gastos
-![Registro de gastos](images/captura04.png)
+![Registro de gastos](images/caputra04.png)
 
 ### 🔹 Tabla de facturación total
 ![facturacion total](images/captura05.png)
