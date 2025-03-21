@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.pruebajsp.proyectoroman"},{"l":"com.pruebajsp.proyectoroman.exceptions"},{"l":"com.pruebajsp.proyectoroman.logica"},{"l":"com.pruebajsp.proyectoroman.persistencia"},{"l":"com.pruebajsp.proyectoroman.persistencia.exceptions"},{"l":"com.pruebajsp.proyectoroman.vista"}];updateSearchResults();
