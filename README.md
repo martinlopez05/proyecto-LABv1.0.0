@@ -32,12 +32,24 @@
 3. **Abrir la carpeta** donde se extrajo la aplicación.
 4. **Ejecutar el archivo** `Lab v1.0.0.exe`.
 5. ¡Listo! 🎉 La aplicación estará en funcionamiento.
+6. NO BORRAR LA CARPETA DATA ❌, ya que allí se encontrará la base de datos.
 
 ## 📊 Exportación de datos
 Para facilitar la gestión y análisis de la información, la aplicación permite exportar las tablas principales a archivos Excel (`.xlsx`).
+
+## 🛠️ Tecnologías utilizadas
+- **Java** (para la lógica de la aplicación).
+- **JPA (Java Persistence API)** para la gestión de la base de datos.
+- **Controllers y Unit Persistence** para la estructura del proyecto.
+- **Swing** para la interfaz gráfica.
+- **Base de datos embebida H2**, que permite crear la base de datos dentro de la carpeta del proyecto.
+- **Maven** para la gestión de dependencias y compilación del proyecto.
+- **Javadocs** para documentación del código.
 
 ## 📝 Contacto y soporte
 Si tienes dudas o sugerencias, puedes contactarme a través de mi GitHub: [martinlopez05](https://github.com/martinlopez05).
 
 ---
 ¡Gracias por usar **LAB**! 🦷💻
+
+
